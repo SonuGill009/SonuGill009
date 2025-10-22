@@ -1,6 +1,6 @@
-## Hi there 👋
 
-# 👋 Hi, I'm Sonu Kumar
+
+### 👋 Hi, I'm Sonu Kumar
 
 🔐 **Cybersecurity Enthusiast** | 🎓 **Educator on YouTube**  
 💻 Passionate about ethical hacking, network security, and malware analysis  
