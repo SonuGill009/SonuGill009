@@ -4,8 +4,8 @@
 
 🔐 **Cybersecurity Enthusiast** | 🎓 **Educator on YouTube**  
 💻 Passionate about ethical hacking, network security, and malware analysis  
-📺 [Check out my Cybersecurity YouTube Channel](https://www.youtube.com/@sonukumar-cybersecurity)  
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sonukumar-cybersecurity)
+📺 [Check out my Cybersecurity YouTube Channel](https://www.youtube.com/@Sonu_raone)  
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/sonu-gill-72358b384)
 
 ---
 
@@ -44,7 +44,7 @@ Write-ups and solutions for Capture The Flag challenges.
 ## 📚 Cybersecurity Learning Journey
 
 - 🏅 CompTIA Security+ (In Progress)
-- 🧠 TryHackMe & Hack The Box Labs
+- 🧠 TryHackMe & Hack The Box Labs(learning)
 - 📘 Cybersecurity Notes & Cheat Sheets  
 [🔗 View Repository](https://github.com/sonukumar/cybersecurity-learning)
 
@@ -59,9 +59,9 @@ Write-ups and solutions for Capture The Flag challenges.
 
 ## 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sonukumar-cybersecurity)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sonu-gill-72358b384)
 - 🐦 [Twitter](https://twitter.com/sonukumar_cyber)
-- 📺 [YouTube](https://www.youtube.com/@sonukumar-cybersecurity)
+- 📺 [YouTube](https://www.youtube.com/@sonu_raone)
 
 ---
 
@@ -69,17 +69,3 @@ Write-ups and solutions for Capture The Flag challenges.
 
 
 
-<!--
-**SonuGill009/SonuGill009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
